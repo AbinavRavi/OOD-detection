@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 #ignored folders
-/IDdata/
-/OODdata/
+# /IDdata/
+# /OODdata/
